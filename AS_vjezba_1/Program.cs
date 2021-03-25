@@ -10,7 +10,8 @@ namespace AS_vjezba_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!!");
+            int a = 0;
+            Console.WriteLine("Hello World!!!!");
         }
     }
 }
