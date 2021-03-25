@@ -8,5 +8,6 @@ namespace AS_vjezba_1
 {
     class Class1
     {
+        int a = 0;
     }
 }
