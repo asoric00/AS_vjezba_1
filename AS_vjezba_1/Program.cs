@@ -12,6 +12,7 @@ namespace AS_vjezba_1
         {
             int a = 0;
             Console.WriteLine("Hello World!!!");
+            Console.WriteLine("Nova IP"); #dodatak
         }
     }
 }
